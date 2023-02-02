@@ -1,2 +1,2 @@
 # odin-recipes
-The purpose of this project is to practice basic HTML tags.
+A basic HTML site which lists my 3 favorite foods and their recipes.
